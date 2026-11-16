@@ -3,6 +3,7 @@
 A cross-platform mobile app (React Native + Expo) for managing reminders, lists and categories, with **time-based** and **location-based** notifications, backed by **Supabase**.
 
 > Developed for the Mobile Systems course (DSSMV) of the Telecommunications and Computer Engineering degree at ISEP. The app's UI is in Portuguese.
+> This repository is a cleaned-up copy of the original (private) course repository; the commit history was not carried over.
 
 <p align="center">
   <img src="docs/screenshots/welcome.jpg" width="160" alt="Welcome screen" />
